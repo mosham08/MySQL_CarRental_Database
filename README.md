@@ -1,2 +1,2 @@
 # MySQL_CarRental_Database
-A databases that stores information about car rentals. 
+A database that stores information about car rentals. 
